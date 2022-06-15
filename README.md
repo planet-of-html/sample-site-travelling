@@ -1,2 +1,3 @@
-# sample-site__travelling
-🚠 Sample web site of travelling
+# sample-site-travelling
+
+🚠 This is a sample website of travelling.
